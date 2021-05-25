@@ -25,5 +25,5 @@ Projeto de construção de rotas API em Nodejs com métodos para buscar:
 * No package.json tem um script `"start": "nodemon server"`, dessa forma, em seu terminal, execute o comando `npm start` e seu projeto vai rodar em localhost.
 * Obs.: Caso não abra automáticamente em seu navegador, digite `http://localhost:8080/api/v1/funcionarios` e com essa url retornará uma lista de funcionários.
     - para acessar as demais rotas, você pode olhar dentro de `./routes/funcionários.js` e seguir como no exemplo:
-    
-    Ex.: No arquivo routes estára dessa forma, `app.route('${defaultRoute}/name/:name')` e no localhost, para acessar, digite: `http://localhost:8080/api/v1/funcionarios/name/{nome-desejado}`
+
+    Ex.: No arquivo routes esta dessa forma, `app.route('${defaultRoute}/name/:name')` e no localhost, para acessar, digite: `http://localhost:8080/api/v1/funcionarios/name/{nome-desejado}`
