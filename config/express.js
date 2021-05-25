@@ -7,8 +7,7 @@ module.exports = () => {
 
   require('../api/routes/funcionarios')(app);
   // SETANDO VARIÁVEIS DA APLICAÇÃO
-  const port = process.env.PORT || 8080;
-  app.listen(port)
+  app.set('port', process.env.PORT || config.get('server.port'));
 
   // MIDDLEWARES
   app.use(bodyParser.json());
