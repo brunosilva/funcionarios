@@ -8,6 +8,7 @@ Projeto de construção de rotas API em Nodejs com métodos para buscar:
 * Funcionário por Data de cadastro,
 * Funcionário por Status
 
+
 ### Em: 
 
 `./controllers/funcionarios.js` -> temos as request e response dos métodos e um método diferente para cada retorno desejado
