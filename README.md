@@ -3,10 +3,10 @@
 Projeto de construção de rotas API em Nodejs com métodos para buscar:
 
 * Todos os funcionários,
-* Funcionário por nome,
+* Funcionário por Nome,
 * Funcionário por CPF,
 * Funcionário por Cargo,
-* Funcionário por Data de cadastro,
+* Funcionário por Uf nascimento de forma quantitativa,
 * Funcionário por Status
 
 
@@ -18,3 +18,9 @@ Projeto de construção de rotas API em Nodejs com métodos para buscar:
 
 `./router/funcionarios.js` -> temos as rotas. 
 
+
+### Rodar o projeto
+
+* Em seu terminal, execute o `npm install` para instalar todas as dependencias necessárias para funcionamento.
+* No package.json tem um script `"start": "nodemon server"`, dessa forma, em seu terminal, execute o comando `npm start` e seu projeto vai rodar em localhost.
+* Obs.: Caso não abra automáticamente em seu navegador, digite `http://localhost:8080/api/v1/funcionarios`
