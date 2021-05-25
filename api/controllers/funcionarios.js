@@ -25,6 +25,12 @@ module.exports = () => {
         res.status(200).json(func)
     }
 
+    controller.funcionarioUf = (req, res) => {
+        let func = funcionarios.data.filter(e => e.ufNasc === req.params.ufNasc)
+        res.status(200).json(func.length)
+    }
+
+
     controller.funcionarioAtivos = (req, res) => {
         let func = funcionarios.data.filter(e => e.status === req.params.status.toUpperCase())
         res.status(200).json(func)

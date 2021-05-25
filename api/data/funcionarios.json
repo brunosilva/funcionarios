@@ -8,7 +8,7 @@
             "ufNasc": "AP",
             "salario": "8965.30",
             "status": "ATIVO",
-            "dataCriacao": "2017-04-15T16:37:58.979Z"
+            "dataCriacao": "2017-04-15"
         },
         {
             "id": "51354",
@@ -18,7 +18,7 @@
             "ufNasc": "RO",
             "salario": "5312.70",
             "status": "ATIVO",
-            "dataCriacao": "2017-04-19T16:37:58.979Z"
+            "dataCriacao": "2017-04-19"
         },
         {
             "id": "85274",
@@ -28,7 +28,7 @@
             "ufNasc": "RJ",
             "salario": "5448.60",
             "status": "BLOQUEADO",
-            "dataCriacao": "2017-04-03T16:37:58.979Z"
+            "dataCriacao": "2017-04-03"
         },
         {
             "id": "98754",
@@ -38,7 +38,7 @@
             "ufNasc": "PR",
             "salario": "3655.10",
             "status": "BLOQUEADO",
-            "dataCriacao": "2017-04-19T16:37:58.979Z"
+            "dataCriacao": "2017-04-19"
         },
         {
             "id": "36958",
@@ -48,7 +48,87 @@
             "ufNasc": "MA",
             "salario": "7027.30",
             "status": "BLOQUEADO",
-            "dataCriacao": "2017-04-03T16:37:58.979Z"
+            "dataCriacao": "2017-04-03"
+        },
+        {
+            "id": "00117",
+            "name": "Abdul Aaland",
+            "cpf": "00117776300",
+            "cargo": "PO Sr",
+            "ufNasc": "PE",
+            "salario": "2058.10",
+            "status": "ATIVO",
+            "dataCriacao": "2017-04-12"
+        },
+        {
+            "id": "94138",
+            "name": "Abe Aalbers",
+            "cpf": "29413892962",
+            "cargo": "PO Sr",
+            "ufNasc": "PA",
+            "salario": "2282.70",
+            "status": "ATIVO",
+            "dataCriacao": "2017-04-19"
+        },
+        {
+            "id": "62924",
+            "name": "Abel Aalderink",
+            "cpf": "62924550840",
+            "cargo": "PO Jr",
+            "ufNasc": "MG",
+            "salario": "5522.20",
+            "status": "ATIVO",
+            "dataCriacao": "2017-04-24"
+        },
+        {
+            "id": "37327",
+            "name": "Abigail Aalund",
+            "cpf": "27862373278",
+            "cargo": "AC Pl",
+            "ufNasc": "ES",
+            "salario": "7880.70",
+            "status": "ATIVO",
+            "dataCriacao": "2017-04-11"
+        },
+        {
+            "id": "69346",
+            "name": "Abraham Aamodt",
+            "cpf": "72376693462",
+            "cargo": "PO Jr",
+            "ufNasc": "TO",
+            "salario": "3833.20",
+            "status": "ATIVO",
+            "dataCriacao": "2017-04-23"
+        },
+        {
+            "id": "15249",
+            "name": "Abram Aamot",
+            "cpf": "07111524977",
+            "cargo": "Dev Pl",
+            "ufNasc": "AP",
+            "salario": "6336.70",
+            "status": "ATIVO",
+            "dataCriacao": "2017-04-04"
+        },
+        {
+            "id": "22570",
+            "name": "Ada Aanderud",
+            "cpf": "41851452257",
+            "cargo": "Analista Jr",
+            "ufNasc": "ES",
+            "salario": "1355.10",
+            "status": "ATIVO",
+            "dataCriacao": "2017-04-19"
+        },
+        {
+            "id": "85475",
+            "name": "Adam Aarestad",
+            "cpf": "10085475815",
+            "cargo": "AC Sr",
+            "ufNasc": "RJ",
+            "salario": "9346.50",
+            "status": "BLOQUEADO",
+            "dataCriacao": "2017-04-29"
         }
     ]
 }

@@ -17,6 +17,9 @@ module.exports = app => {
 
     app.route(`${defaultRoute}/cargo/:cargo`)
         .get(controller.funcionarioCargo);
+    
+    app.route(`${defaultRoute}/uf/:ufNasc`)
+        .get(controller.funcionarioUf);
 
     app.route(`${defaultRoute}/status/:status`)
         .get(controller.funcionarioAtivos);
