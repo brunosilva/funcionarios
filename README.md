@@ -1,6 +1,7 @@
 # Projeto em NodeJs 
 
 Projeto de construção de rotas API em Nodejs com métodos para buscar:
+
 * Todos os funcionários,
 * Funcionário por nome,
 * Funcionário por CPF,
@@ -16,3 +17,4 @@ Projeto de construção de rotas API em Nodejs com métodos para buscar:
 `./data/funcionarios.json` -> temos o array com objeto de todos os funcionários cadastrados na base.
 
 `./router/funcionarios.js` -> temos as rotas. 
+
