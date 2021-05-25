@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "id": "12345",
+            "name": "Aaron Aaberg",
+            "cpf": "85235708709",
+            "cargo": "Dev Jr",
+            "ufNasc": "AP",
+            "salario": "8965.30",
+            "status": "ATIVO",
+            "dataCriacao": "2017-04-15T16:37:58.979Z"
+        },
+        {
+            "id": "51354",
+            "name": "Aaron Aaby",
+            "cpf": "59984408701",
+            "cargo": "AC Sr",
+            "ufNasc": "RO",
+            "salario": "5312.70",
+            "status": "ATIVO",
+            "dataCriacao": "2017-04-19T16:37:58.979Z"
+        },
+        {
+            "id": "85274",
+            "name": "Abbey Aadland",
+            "cpf": "51704568080",
+            "cargo": "Analista Sr",
+            "ufNasc": "RJ",
+            "salario": "5448.60",
+            "status": "BLOQUEADO",
+            "dataCriacao": "2017-04-03T16:37:58.979Z"
+        },
+        {
+            "id": "98754",
+            "name": "Abbie Aagaard",
+            "cpf": "32439637882",
+            "cargo": "PO Jr",
+            "ufNasc": "PR",
+            "salario": "3655.10",
+            "status": "BLOQUEADO",
+            "dataCriacao": "2017-04-19T16:37:58.979Z"
+        },
+        {
+            "id": "36958",
+            "name": "Abby Aakre",
+            "cpf": "06994375986",
+            "cargo": "PO Pl",
+            "ufNasc": "MA",
+            "salario": "7027.30",
+            "status": "BLOQUEADO",
+            "dataCriacao": "2017-04-03T16:37:58.979Z"
+        }
+    ]
+}
